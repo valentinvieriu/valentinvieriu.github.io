@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/stylesheets/quirkey.css" type="text/css" media="screen" charset="utf-8" />
+  <link rel="stylesheet" href="/stylesheets/home.css" type="text/css" media="screen" charset="utf-8" />
+  <script src="/javascripts/jquery.js" type="text/javascript" charset="utf-8"></script>
+  {% if page.github_name == 'home' %}
+  <script src="/javascripts/github.js" type="text/javascript" charset="utf-8"></script>
+  {% endif %}
+</head>
+
+<body>
+  <a href="http://github.com/valentinvieriu/"><img style="position: absolute; top: 0; right: 0; border: 0; z-index:50;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_orange_ff7600.png" alt="Fork me on GitHub" /></a>
+  <div id="container">
+    <div id="header_holder">
+      <div id="header">
+        <h1><a href="/" class="q_code">code.</a>valentinvieriu.com</h1>
+        <div id="quirkey_nav" style="display: none;">
+          <h1 class="quirkey_portfolio">Quirkey<a href="http://portfolio.quirkey.com/" class="q_portfolio">Portfolio</a><span class="description">Selected work.</span></h1>
+          <h1 class="quirkey_log">Quirkey<a href="http://log.quirkey.com/" class="q_log">Log</a><span class="description">Up-to-the-minute updates from the interweb.</span></h1>
+          <h1 class="quirkey_blog">Quirkey<a href="http://www.quirkey.com/blog/" class="q_blog">Blog</a><span class="description">Articles, Tutorials, etc.</span></h1>
+          <h1 class="quirkey_com">Quirkey<a href="http://www.quirkey.com" class="q_com">.com</a><span class="description">The Lobby; General Information.</span></h1>
+        </div>
+      </div>
+      <div class="quirkey_nav_close" style="display:none;"><a href="#">^</a></div>
+    </div>
+    <div id="main">
+      <div id="content">
+        {{ content }}
+      </div>
+    </div>
+    <div id="footer">
+  </div>
+</body>
+</html>
