@@ -3,11 +3,11 @@ var Github = {
 		this.fetch();
 	},
 	fetch: function() {
-		$.getJSON('http://github.com/api/v1/json/valentinvieriu?callback=?', Github.load);
+		$.getJSON('https://api.github.com/users/valentinvieriu/repos?callback=?', Github.load);
 	},
 	load: function(github_data) {
 		var gh = Github;
-		var repositories = github_data.user.repositories;
+		var repositories = github_data.data;
 		repositories.sort(function(a,b) {
 			return (a.watchers + a.forks) - (b.watchers + b.forks);
 		});
