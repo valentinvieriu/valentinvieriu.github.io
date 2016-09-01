@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/valentin_v
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://valentin.js.org
+  * I am valentin_v (https://keybase.io/valentin_v) on keybase.
+  * I have a public key ASDVogYisxcIHSK9OyMwEY1kFaLfanVevRXGDplo-Rsm0Ao
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101ea3e59cb96572298fa74fab8d0ff107199c8aacd08f0910d18f79a37745313a20a",
+            "host": "keybase.io",
+            "kid": "0120d5a20622b317081d22bd3b2330118d6415a2df6a755ebd15c60e9968f91b26d00a",
+            "uid": "237348ee786deadedf15c372197ccf19",
+            "username": "valentin_v"
+        },
+        "service": {
+            "hostname": "valentin.js.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1472736948,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1472736861,
+        "hash": "6a8bde6a8ad95c39835e4a670233cfc35dafd24e663ee8729816d7d6295ab30ffd714e7da90f8506e4bfa09ad78cb08926adae057664af954d687b577fbb1c36",
+        "seqno": 613916
+    },
+    "prev": "c1e115ad3992920a932b628170b063e1db486a3674285cf2630b7a28f81cbc3f",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg1aIGIrMXCB0ivTsjMBGNZBWi32p1Xr0Vxg6ZaPkbJtAKp3BheWxvYWTFAvh7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZWEzZTU5Y2I5NjU3MjI5OGZhNzRmYWI4ZDBmZjEwNzE5OWM4YWFjZDA4ZjA5MTBkMThmNzlhMzc3NDUzMTNhMjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZDVhMjA2MjJiMzE3MDgxZDIyYmQzYjIzMzAxMThkNjQxNWEyZGY2YTc1NWViZDE1YzYwZTk5NjhmOTFiMjZkMDBhIiwidWlkIjoiMjM3MzQ4ZWU3ODZkZWFkZWRmMTVjMzcyMTk3Y2NmMTkiLCJ1c2VybmFtZSI6InZhbGVudGluX3YifSwic2VydmljZSI6eyJob3N0bmFtZSI6InZhbGVudGluLmpzLm9yZyIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTcifSwiY3RpbWUiOjE0NzI3MzY5NDgsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ3MjczNjg2MSwiaGFzaCI6IjZhOGJkZTZhOGFkOTVjMzk4MzVlNGE2NzAyMzNjZmMzNWRhZmQyNGU2NjNlZTg3Mjk4MTZkN2Q2Mjk1YWIzMGZmZDcxNGU3ZGE5MGY4NTA2ZTRiZmEwOWFkNzhjYjA4OTI2YWRhZTA1NzY2NGFmOTU0ZDY4N2I1NzdmYmIxYzM2Iiwic2Vxbm8iOjYxMzkxNn0sInByZXYiOiJjMWUxMTVhZDM5OTI5MjBhOTMyYjYyODE3MGIwNjNlMWRiNDg2YTM2NzQyODVjZjI2MzBiN2EyOGY4MWNiYzNmIiwic2Vxbm8iOjksInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAratbNEpt6mFgPS40M4FLPoscxuC77XFsg/WgWBPa9gKUOAbEHDCZOHDRG95WgzUhlqhds59MGROrrdK/olCQCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEhaheLAhv/X+9aMeEnugLAJUC1o6PH2wgFnVBtuN2FRo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/valentin_v
+
+==================================================================
